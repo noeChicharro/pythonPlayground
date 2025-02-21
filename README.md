@@ -12,8 +12,11 @@ Open terminal/bash and navicate to the location of your newly created folder. "c
 type the following command: git clone LinkYouJustCopied 
 this automatically downloads the projects latest version into your filesystem. 
 
+!!! If you use GitHub Desktop follow thouse instructions. If you need help text me :) 
+
 3. Install VSCode
 Visit this site (https://code.visualstudio.com/download) and follow the instructions. 
+To get the best possible results install these plugins: Python and Rainbow CSV
 
 4. Open project in VSCode
 Open VS code, File -> Open. Select the cloned project root folder. 
